@@ -1,6 +1,8 @@
 # The Common Room
 
-A frontend web app for The Common Room, an independent jazz collective in Beirut. Visitors can browse events, see the services offered, book seats for an event and contact the collective. Built for CSCI426 Advanced Web Programming (Project Phase 1), theme: Event Management System.
+A frontend web app for The Common Room, an independent jazz collective in Beirut. 
+Visitors can browse events, see the services offered, book seats for an event and contact the club. 
+Built for CSCI426 project.
 
 ## Pages
 - **Home**: hero, next session, gallery and call to action
