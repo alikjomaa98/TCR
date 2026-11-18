@@ -1,0 +1,8 @@
+.contact{padding:20px 28px}
+.contactGrid{display:grid;grid-template-columns:1fr 1fr;gap:28px}
+.contact h2{font-size:clamp(2rem,6vw,4.5rem);margin-bottom:16px}
+.contact p{margin-bottom:14px;font-size:14px}
+.contact form{display:flex;flex-direction:column;gap:12px}
+.contact input,.contact textarea{font:inherit;text-transform:uppercase;padding:12px;border:3px solid var(--ink);background:transparent;color:var(--ink)}
+.contact input[type=submit]{background:var(--red);cursor:pointer;font-weight:900;letter-spacing:.3em}
+@media (max-width:700px){.contactGrid{grid-template-columns:1fr}}
