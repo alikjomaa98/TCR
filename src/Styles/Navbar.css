@@ -1,5 +1,0 @@
-.navbar{display:flex;justify-content:space-between;align-items:center;padding:16px 28px}
-.navbar img{width:64px;height:64px;border-radius:50%;border:3px solid var(--ink)}
-.rightSide{display:flex;gap:6px;flex-wrap:wrap;justify-content:flex-end}
-.rightSide a{text-decoration:none;font-weight:900;font-size:15px;padding:5px 12px;border-radius:999px}
-.rightSide a:hover{background:var(--ink);color:var(--bg)}
